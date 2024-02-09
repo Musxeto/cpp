@@ -1,0 +1,16 @@
+On the other hand, too much oxygen will cause the combustion temperature to drop, which will reduce the amount of power needed. An advanced control system, adjusting retention time, and segmenting the combustion chamber into phases can be used to achieve the ideal air to fuel ratio.The computed formula for feedstock combustion is CH1.44O0.66 + 1.03O2  CO2 + 0.72H2O + Heat.
+Drying, devolatilization, volatile burning, and gasification are the four stages that make up the combustion process.
+(i)Drying: The removal of moisture requires the use of biomass energy. The temperature at which water evaporates during this endothermic phase is almost 200 °C. Biomass is thoroughly dried and the organic substance is largely free of water; during gasification, water vapour helps to increase conversion.
+(ii)Devolatilization: When organic material is heated, big macromolecules break down into smaller chemical molecules. Heat fed in the lack of air is the main cause of the formation of volatile compounds. According to thermogravimetric analysis (TGA) and derivative thermogravimetry (DTG), wood is made up of many different components, each of which has a specific decomposition temperature. Temperature and residence duration have a significant impact on the type and quantity of each volatile gas. If the requirements are met, the result could be the same regardless of the solid biomass source.
+(iii)Volatile burning:combustion of volatile substances includes the combustion of char, H2, CO, CO2, methane (CH4), nitrogen (N2), and water vapour.
+(iv) Gasification:The carbon and gaseous molecules are completely consumed by the addition of oxygen at high temps between 700 and 1500 C after the evaporation of water vapor, CO2, and other volatile organic material. 
+Direct combustion systems can be subcategorized into ;
+(i) operating mode;manually (i.e. open/closed chimney, single stove, tiled stove, pellet stove, and wood log stove) and automatically fed systems
+(ii) scale size; small or large ones.
+The different types of biomass burning methods include ;
+ (i) Simple combustion:100 kW or so of electricity from biomass burning for household use (i.e. heating or cooking daily activities). 
+ (ii) Moderate and huge combustion factories:Large and massive combustion plants, also referred to as combined heat and power production (CHP), can produce hundreds of megawatts of power and are either completely mechanical or fully automated. 
+      It uses solid biofuels like wood and farm refuse. Fixed bed reactors (such as grate furnaces and underfeed stokers), fluidized bed reactors (such as bubbling and swirling), and pulverised fuel reactors are typically used in industrial size combustion processes.
+
+
+
