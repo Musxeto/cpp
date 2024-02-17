@@ -1,0 +1,11 @@
+while (getline(inFile, line)) {
+        StockItems item;
+        stringstream ss(line);
+        
+        getline(ss, item.name, ',');
+        getline(ss, item.quantity, ',');
+        getline(ss, item.price, ',');
+        getline(ss, item.id, ',');
+       
+        items.push_back(item);
+    }
